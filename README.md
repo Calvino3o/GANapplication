@@ -1,2 +1,2 @@
 # GANapplication
-code for literature pattern recognition and machine learning
+code for lesson pattern recognition and machine learning
